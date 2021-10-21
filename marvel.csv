@@ -1,0 +1,241 @@
+year,character,identity,align,eye,hair,gender,alive,appearance,ratings
+1939,Human Torch ,Public ,good ,Blue,Blond,Male,Living,548,3.8
+1940,Thomas Raymond ,Secret ,good ,Blue,Black,Male,Living,373,3.3
+1941,Johann Shmidt ,Public ,bad,Blue,Blond,Male,Deceased,376,3.3
+1941,James Buchanan Barnes ,Secret ,good ,Brown,Brown,Male,Living,641,3.8
+1941,Captain America ,Public ,good ,Blue,White,Male,Living,3458,4.8
+1944,Patricia Walker ,Secret ,good ,Blue,Red,Female,Living,550,3.8
+1949,Ares ,Secret ,neutral ,Brown,Brown,Male,Deceased,236,3.3
+1949,Loki Laufeyson ,No Dual ,neutral ,Green,Black,Genderfluid,Living,532,3.8
+1950,Thor ,No Dual ,good ,Blue,Blond,Male,Living,2402,4.8
+1951,Vlad Dracula ,No Dual ,bad,Red,White,Male,Living,223,3.3
+1960,Jonathan Clay ,Secret ,good ,Blue,Red,Male,Living,237,3.4
+1961,Harvey Elder ,Secret ,bad,Brown,Grey,Male,Living,164,2.7
+1961,Susan Storm ,Public ,good ,Blue,Blond,Female,Living,1713,4.5
+1961,Jonathan Storm ,Public ,good ,Blue,Blond,Male,Living,1934,4.5
+1961,Reed Richards ,Public ,good ,Brown,Brown,Male,Living,2072,4.8
+1961,Benjamin Grimm ,Public ,good ,Blue,No,Male,Living,2255,4.8
+1962,Donald Blake ,No Dual ,good ,Blue,Blond,Male,Living,170,2.7
+1962,The Wizard ,Public ,bad,Hazel,Brown,Male,Living,189,3.3
+1962,Matthew Hawk ,Secret ,good ,Blue,Brown,Male,Deceased,195,3.3
+1962,Benjamin Parker ,No Dual ,good ,Blue,Brown,Male,Deceased,205,3.3
+1962,Jane Foster ,No Dual ,good ,Blue,Brown,Female,Living,211,3.3
+1962,Heimdall ,Secret ,good ,Grey,Brown,Male,Living,270,3.4
+1962,Alicia Masters ,No Dual ,good ,Brown,Strawberry,Female,Living,293,3.4
+1962,Balder Odinson ,Secret ,good ,Blue,Brown,Male,Deceased,403,3.5
+1962,Red Hulk ,Public ,neutral ,Blue,Black,Male,Living,415,3.5
+1962,Elizabeth Ross ,Public ,good ,Blue,Black,Female,Living,446,3.5
+1962,Odin Borson ,Public ,neutral ,Blue,White,Male,Living,502,3.8
+1962,Richard Jones ,Secret ,good ,Brown,Brown,Male,Living,590,3.8
+1962,Eugene Thompson ,Secret ,good ,Blue,Strawberry,Male,Living,689,3.5
+1962,Victor von Doom ,Public ,bad,Brown,Brown,Male,Living,721,3.5
+1962,May Reilly ,No Dual ,good ,Blue,Grey,Female,Living,1000,4.5
+1962,Henry Pym ,Public ,good ,Blue,Blond,Male,Living,1237,4.5
+1962,Hulk ,Public ,good ,Brown,Brown,Male,Living,2017,4.8
+1962,Spider-Man ,Secret ,good ,Hazel,Brown,Male,Living,4043,4.8
+1963,Harold Hogan ,No Dual ,good ,Brown,Brown,Male,Deceased,166,2.7
+1963,Jessica Jones ,No Dual ,good ,Brown,Brown,Female,Living,195,3.3
+1963,John Jonah Jameson III ,No Dual ,good ,Brown,Auburn,Male,Living,240,3.4
+1963,Adrian Toomes ,Public ,bad,Hazel,Bald,Male,Living,248,3.4
+1963,Curtis Connors ,Public ,neutral ,Red,No,Male,Living,250,3.4
+1963,Virginia Potts ,No Dual ,good ,Green,Red,Female,Living,274,3.4
+1963,Wong ,No Dual ,good ,Brown,Bald,Male,Living,306,3.4
+1963,William Baker ,Secret ,neutral ,Brown,Brown,Male,Living,338,3.3
+1963,Uatu ,Public ,good ,Blue,Bald,Male,Deceased,373,3.3
+1963,Timothy Dugan ,Public ,good ,Blue,Red,Male,Deceased,517,3.8
+1963,Otto Octavius ,Secret ,neutral ,Hazel,Brown,Male,Deceased,526,3.8
+1963,Elizabeth Brant ,No Dual ,good ,Brown,Brown,Female,Living,599,3.8
+1963,Max Eisenhardt ,Public ,neutral ,Grey,Bald,Male,Living,709,3.5
+1963,Jean Grey ,Public ,good ,Green,Red,Female,Deceased,1107,4.5
+1963,Janet van Dyne ,Public ,good ,Blue,Auburn,Female,Living,1120,4.5
+1963,Nicholas Fury ,No Dual ,neutral ,Brown,Brown,Male,Living,1137,4.5
+1963,Warren Worthington III ,Public ,good ,Blue,Blond,Male,Living,1230,4.5
+1963,Charles Xavier ,Public ,good ,Blue,Bald,Male,Deceased,1233,4.5
+1963,Robert Drake ,Secret ,good ,Brown,Brown,Male,Living,1265,4.5
+1963,John Jonah Jameson ,No Dual ,neutral ,Blue,Black,Male,Living,1266,4.5
+1963,Stephen Strange ,Public ,good ,Grey,Black,Male,Living,1307,4.5
+1963,Henry McCoy ,Public ,good ,Blue,Blue,Male,Living,1825,4.5
+1963,Scott Summers ,Public ,neutral ,Brown,Brown,Male,Living,1955,4.5
+1963,Iron Man ,Public ,good ,Blue,Black,Male,Living,2961,4.8
+1964,Wolfgang von Strucker ,Public ,bad,Blue,Bald,Male,Deceased,164,2.7
+1964,Hela ,Secret ,bad,Green,Black,Female,Deceased,170,2.7
+1964,Quentin Beck ,Secret ,bad,Blue,Bald,Male,Living,180,3.3
+1964,Edward Leeds ,Secret ,neutral ,Blue,Brown,Male,Deceased,181,3.3
+1964,Sergei Kravinoff ,Public ,bad,Brown,Black,Male,Deceased,188,3.3
+1964,Mandarin ,Secret ,bad,Blue,Black,Male,Deceased,190,3.3
+1964,Frederick Dukes ,Public ,bad,Brown,Brown,Male,Living,194,3.3
+1964,Carl Creel ,Public ,bad,Blue,Bald,Male,Living,202,3.3
+1964,Mortimer Toynbee ,Secret ,neutral ,Black,Brown,Male,Living,210,3.3
+1964,Anna May ,No Dual ,good ,Blue,White,Female,Living,224,3.3
+1964,Maxwell Dillon ,Public ,bad,Blue,Auburn,Male,Living,225,3.3
+1964,Karen Page ,No Dual ,good ,Blue,Blond,Female,Deceased,226,3.3
+1964,Amora ,Public ,bad,Green,Blond,Female,Living,247,3.4
+1964,Clea ,No Dual ,good ,Blue,White,Female,Living,247,3.4
+1964,Abner Jenkins ,Public ,good ,Brown,Brown,Male,Living,284,3.4
+1964,MacDonald Gargan ,Secret ,bad,Brown,Bald,Male,Living,317,3.3
+1964,Sif ,No Dual ,good ,Blue,Black,Female,Living,422,3.5
+1964,Franklin Nelson ,No Dual ,good ,Blue,Bald,Male,Living,528,3.8
+1964,Edwin Jarvis ,No Dual ,good ,Blue,White,Male,Living,567,3.8
+1964,Simon Williams ,Public ,good ,Red,Grey,Male,Living,686,3.5
+1964,Norman Osborn ,Public ,bad,Blue,Auburn,Male,Living,692,3.5
+1964,Pietro Maximoff ,Public ,good ,Blue,Silver,Male,Living,740,4.0
+1964,Natalia Romanova ,Public ,good ,Green,Red,Female,Living,1050,4.5
+1964,Wanda Maximoff ,Public ,good ,Green,Brown,Female,Living,1161,4.5
+1964,Matthew Murdock ,Public ,good ,Blue,Red,Male,Living,1338,4.5
+1964,Clinton Barton ,Public ,good ,Blue,Blond,Male,Living,1394,4.5
+1965,Erik Josten ,Secret ,good ,Brown,Red,Male,Living,204,3.3
+1965,Zabu ,Public ,good ,Green,Orange,Male,Living,234,3.3
+1965,Triton ,No Dual ,good ,Green,No,Male,Living,240,3.4
+1965,Lockjaw ,Secret ,good ,Brown,Brown,Male,Living,255,3.4
+1965,Karnak ,Secret ,good ,Blue,Black,Male,Deceased,257,3.4
+1965,Kevin Plunder ,Public ,good ,Blue,Blond,Male,Living,260,3.4
+1965,Gorgon ,Secret ,good ,Brown,Brown,Male,Living,272,3.4
+1965,Cain Marko ,Public ,neutral ,Blue,Red,Male,Living,329,3.3
+1965,Blackagar Boltagon ,No Dual ,good ,Blue,Black,Male,Living,366,3.3
+1965,Hogun ,Public ,good ,Grey,Black,Male,Living,371,3.3
+1965,Fandral ,Secret ,good ,Blue,Blond,Male,Deceased,375,3.3
+1965,Medusalith Amaquelin ,Public ,good ,Green,Red,Female,Living,382,3.3
+1965,Gwen Dolyne Stacy ,No Dual ,good ,Blue,Blond,Female,Deceased,384,3.3
+1965,Volstagg ,Public ,good ,Blue,Red,Male,Living,406,3.5
+1965,Harry Osborn ,No Dual ,good ,Blue,Brown,Male,Living,474,3.5
+1965,Crystalia Amaquelin ,Public ,good ,Green,Strawberry,Female,Living,512,3.8
+1965,Hercules ,No Dual ,good ,Blue,Brown,Male,Living,725,3.5
+1965,Mary Jane Watson ,No Dual ,good ,Green,Red,Female,Living,1304,4.5
+1966,Herbert Wyndham ,Secret ,neutral ,Brown,Brown,Male,Living,179,3.0
+1966,Aleksei Sytsevich ,Secret ,bad,Brown,Brown,Male,Deceased,239,3.4
+1966,Sharon Carter ,Public ,good ,Blue,Blond,Female,Living,332,3.3
+1966,Galactus ,Secret ,neutral ,Brown,No,Male,Living,390,3.3
+1966,Norrin Radd ,Public ,good ,Blue,Bald,Male,Living,696,3.5
+1967,Valentina Allegra de Fontaine ,Secret ,neutral ,Blue,Black,Female,Living,176,3.0
+1967,Mar-Vell ,Public ,good ,Blue,Blond,Male,Deceased,245,3.4
+1967,Adam Warlock ,No Dual ,good ,White,Gold,Male,Living,252,3.4
+1967,Sean Cassidy ,Secret ,neutral ,Green,Strawberry,Male,Living,374,3.3
+1967,Dane Whitman ,Secret ,good ,Brown,Brown,Male,Living,478,3.5
+1967,Wilson Fisk ,Public ,bad,Blue,Bald,Male,Living,503,3.8
+1967,Joseph Robertson ,No Dual ,good ,Brown,White,Male,Living,752,4.0
+1968,Dirk Garthwaite ,Secret ,bad,Blue,Brown,Male,Living,164,2.7
+1968,Ultron ,No Dual ,bad,Red,No,Male,Deceased,181,3.3
+1968,Mephisto ,No Dual ,bad,White,Black,Male,Living,316,3.3
+1968,Lorna Dane ,Secret ,good ,Green,Green,Female,Living,433,3.5
+1968,Franklin Richards ,No Dual ,good ,Blue,Blond,Male,Living,473,3.5
+1968,Carol Danvers ,Public ,good ,Blue,Blond,Female,Living,881,4.0
+1968,Vision ,Secret ,good ,Gold,No,Male,Living,1007,4.5
+1969,Ophelia Sarkissian ,Secret ,bad,Green,Black,Female,Living,175,3.0
+1969,Kyle Richmond ,Secret ,good ,Brown,Auburn,Male,Living,227,3.3
+1969,Samuel Wilson ,Public ,good ,Brown,Black,Male,Living,512,3.8
+1969,Alexander Summers ,Public ,good ,Blue,Blond,Male,Living,558,3.8
+1970,Brunnhilde ,Secret ,good ,Blue,Blond,Female,Living,361,3.3
+1970,Conan ,No Dual ,neutral ,Blue,Black,Male,Living,787,4.0
+1971,Michael Morbius ,Secret ,neutral ,Red,Black,Male,Living,231,3.3
+1971,Theodore Sallis ,Secret ,good ,Red,No,Male,Living,249,3.4
+1971,Leonard Samson ,Public ,good ,Brown,Green,Male,Deceased,260,3.4
+1971,Barbara Morse ,Secret ,good ,Blue,Blond,Female,Living,368,3.3
+1972,Jack Russell ,Secret ,good ,Blue,Red,Male,Living,178,3.0
+1972,Namorita Prentiss ,Public ,good ,Blue,Blond,Female,Deceased,257,3.4
+1972,Mercedes Knight ,Public ,good ,Brown,Black,Female,Living,259,3.4
+1972,Greer Grant ,Public ,good ,Green,Black,Female,Living,342,3.3
+1972,Johnathon Blaze ,Secret ,good ,Blue,Reddish,Male,Living,426,3.5
+1972,Luke Cage ,No Dual ,good ,Brown,Black,Male,Living,856,4.0
+1973,Helmut Zemo ,Public ,bad,Blue,Blond,Male,Living,184,3.3
+1973,Eros ,Public ,good ,Blue,Red,Male,Living,193,3.3
+1973,Eric Brooks ,Public ,good ,Brown,Black,Male,Living,194,3.3
+1973,Daimon Hellstrom ,No Dual ,neutral ,Red,Red,Male,Living,242,3.4
+1973,Arthur Douglas ,Secret ,good ,Blue,Brown,Male,Living,264,3.4
+1973,Shang-Chi ,No Dual ,good ,Brown,Black,Male,Living,296,3.4
+1973,Thanos ,No Dual ,bad,Red,No,Male,Living,306,3.4
+1973,Heather Douglas ,Secret ,good ,Blue,Bald,Female,Living,323,3.3
+1974,Colleen Wing ,Public ,good ,Blue,Auburn,Female,Living,175,3.0
+1974,Daniel Rand ,Secret ,good ,Blue,Blond,Male,Living,618,3.8
+1974,Frank Castle ,Public ,neutral ,Blue,Black,Male,Living,878,4.0
+1974,Wolverine ,Public ,neutral ,Blue,Black,Male,Living,3061,4.8
+1975,Pip Gofern ,Secret ,good ,Green,Red,Male,Living,163,2.7
+1975,Gamora ,No Dual ,neutral ,Yellow,Black,Female,Living,218,3.3
+1975,Moira Kinross ,No Dual ,good ,Blue,Brown,Female,Deceased,259,3.4
+1975,James Madrox ,Public ,good ,Brown,Brown,Male,Living,271,3.4
+1975,Vance Astrovik ,Public ,good ,Hazel,Brown,Male,Living,290,3.4
+1975,Karla Sofen ,Public ,neutral ,Blue,Blond,Female,Living,340,3.3
+1975,Illyana Rasputina ,Secret ,neutral ,Blue,Blond,Female,Living,380,3.3
+1975,Marc Spector ,Secret ,good ,Brown,Brown,Male,Living,387,3.3
+1975,Kurt Wagner ,Secret ,good ,Yellow,Blue,Male,Living,1047,4.5
+1975,Piotr Rasputin ,Secret ,good ,Blue,Black,Male,Living,1162,4.5
+1975,Ororo Munroe ,Public ,good ,Blue,White,Female,Living,1512,4.5
+1976,Lilandra Neramani ,No Dual ,good ,Orange,Black,Female,Deceased,170,2.7
+1976,Sersi ,Secret ,good ,Blue,Black,Female,Living,236,3.3
+1976,Bullseye ,Secret ,bad,Blue,Blond,Male,Living,277,3.4
+1976,Richard Rider ,Public ,good ,Brown,Brown,Male,Deceased,373,3.3
+1976,Brian Braddock ,Public ,good ,Blue,Blond,Male,Living,528,3.8
+1976,Elizabeth Braddock ,Secret ,neutral ,Blue,Purple,Female,Living,708,3.5
+1977,Henry Gyrich ,No Dual ,bad,Green,Red,Male,Living,170,2.7
+1977,Sabretooth ,Secret ,bad,Amber,Blond,Male,Living,382,3.3
+1977,Jessica Drew ,Secret ,good ,Green,Auburn,Female,Living,471,3.5
+1978,Wendell Vaughn ,Secret ,good ,Blue,Blond,Male,Living,290,3.4
+1978,Ben Urich ,No Dual ,good ,Brown,Brown,Male,Living,324,3.3
+1978,Raven Darkholme ,Secret ,bad,Yellow,Red,Female,Living,371,3.3
+1979,Michael Twoyoungmen ,Public ,good ,Brown,Black,Male,Living,200,3.3
+1979,Jeanne-Marie Beaubier ,Secret ,good ,Blue,Black,Female,Living,203,3.3
+1979,Scott Lang ,Public ,good ,Blue,Strawberry,Male,Living,209,3.3
+1979,Melissa Gold ,Secret ,good ,Green,Blond,Female,Living,260,3.4
+1979,Walter Langkowski ,Secret ,good ,Blue,Blond,Male,Living,273,3.4
+1979,Jean-Paul Beaubier ,Secret ,good ,Blue,Black,Male,Living,313,3.4
+1979,Felicia Hardy ,Public ,bad,Yellow,Blond,Female,Living,332,3.3
+1979,James Rhodes ,Secret ,good ,Brown,Brown,Male,Living,525,3.8
+1980,Sage ,Secret ,good ,Blue,Black,Female,Living,172,3.0
+1980,Sebastian Shaw ,No Dual ,neutral ,Blue,Black,Male,Living,174,3.0
+1980,Heather McNeil ,Public ,neutral ,Green,Red,Female,Living,252,3.4
+1980,Alison Blaire ,Public ,good ,Blue,Strawberry,Female,Living,353,3.3
+1980,Emma Frost ,Public ,neutral ,Blue,Brown,Female,Living,880,4.0
+1980,Jennifer Walters ,Public ,good ,Green,Brown,Female,Living,881,4.0
+1980,Katherine Pryde ,Secret ,good ,Hazel,Brown,Female,Living,886,4.0
+1981,Theresa Cassidy ,Secret ,good ,Green,Red,Female,Living,267,3.4
+1981,Elektra Natchios ,Secret ,neutral ,Blue,Black,Female,Living,280,3.4
+1982,Tandy Bowen ,Secret ,good ,Blue,Blond,Female,Living,222,3.3
+1982,Tyrone Johnson ,Secret ,good ,Brown,Black,Male,Living,226,3.3
+1982,Danielle Moonstar ,Secret ,good ,Brown,Black,Female,Living,388,3.3
+1982,Rahne Sinclair ,Secret ,good ,Green,Red,Female,Living,448,3.5
+1982,Roberto da Costa ,Secret ,good ,Brown,Black,Male,Living,464,3.5
+1982,Samuel Guthrie ,Secret ,good ,Blue,Blond,Male,Living,657,3.8
+1983,Madison Jeffries ,No Dual ,good ,Brown,Black,Male,Living,193,3.3
+1983,Amara Aquilla ,Secret ,good ,Blue,Blond,Female,Living,217,3.3
+1983,Valerie Cooper ,Public ,good ,Blue,Blond,Female,Living,225,3.3
+1983,Meggan Puceanu ,Secret ,good ,Brown,Blond,Female,Living,240,3.4
+1983,Eugene Judd ,Public ,good ,Brown,Bald,Male,Living,245,3.4
+1983,Lockheed ,Secret ,good ,Blue,No,Male,Living,260,3.4
+1984,Douglas Ramsey ,Secret ,good ,Blue,Blond,Male,Living,181,3.3
+1984,Alexander Power ,Secret ,good ,Blue,Blond,Male,Living,197,3.3
+1984,Paige Guthrie ,Secret ,good ,Blue,Blond,Female,Living,207,3.3
+1984,Julia Carpenter ,Secret ,good ,Blue,Strawberry,Female,Living,212,3.3
+1984,Warlock ,Secret ,good ,Black,No,Male,Living,261,3.4
+1984,Forge ,Public ,good ,Brown,Black,Male,Living,276,3.4
+1984,James Proudstar ,Secret ,good ,Brown,Black,Male,Living,320,3.3
+1984,Venom ,Known to Authorities ,neutral ,Variable,No,Agender,Living,348,3.3
+1985,Guido Carosella ,Secret ,neutral ,Brown,Bald,Male,Living,236,3.3
+1985,Tabitha Smith ,Secret ,good ,Blue,Blond,Female,Living,316,3.3
+1985,Angelica Jones ,Known to Authorities ,good ,Green,Red,Female,Living,319,3.3
+1986,Edward Brock ,Public ,neutral ,Black,Blond,Male,Living,318,3.3
+1986,John Walker ,Secret ,good ,Blue,Blond,Male,Living,346,3.3
+1986,Nathan Summers ,Public ,neutral ,Blue,White,Male,Living,612,3.8
+1987,Julio Richter ,Secret ,good ,Brown,Brown,Male,Living,231,3.3
+1988,Eric Masterson ,Secret ,good ,Blue,Blond,Male,Deceased,198,3.3
+1988,Robert Baldwin ,Secret ,good ,Blue,Blond,Male,Living,293,3.4
+1989,Dwayne Taylor ,Secret ,good ,Brown,Black,Male,Deceased,169,2.7
+1989,Jubilation Lee ,Secret ,good ,Brown,Black,Female,Living,408,3.5
+1990,Daniel Ketch ,Secret ,neutral ,Green,Brown,Male,Living,311,3.4
+1990,Remy LeBeau ,Secret ,good ,Black,Brown,Male,Living,636,3.8
+1991,Christopher Powell ,Secret ,good ,Brown,Brown,Male,Living,165,2.7
+1991,Deadpool ,Secret ,neutral ,Brown,Bald,Male,Living,500,3.8
+1992,Neena Thurman ,Secret ,good ,Blue,Black,Female,Living,310,3.4
+1994,Jonothon Starsmore ,Secret ,good ,Brown,Brown,Male,Living,187,3.3
+1994,Monet St. Croix ,No Dual ,good ,Brown,Black,Female,Living,221,3.3
+2000,Robert Reynolds ,Secret ,neutral ,Blue,Blond,Male,Living,240,3.4
+2001,Phoebe Cuckoo ,Secret ,good ,Blue,Blond,Female,Living,174,3.0
+2001,Irma Cuckoo ,Secret ,good ,Blue,Black,Female,Living,175,3.0
+2001,Celeste Cuckoo ,Secret ,good ,Blue,Blond,Female,Living,177,3.0
+2002,Valeria Richards ,No Dual ,good ,Blue,Blond,Female,Living,171,2.7
+2003,Julian Keller ,Public ,good ,Blue,Black,Male,Living,179,3.0
+2003,Victor Borkowski ,Secret ,good ,Brown,Black,Male,Living,184,3.3
+2003,Santo Vaccarro ,Secret ,good ,White,No,Male,Living,238,3.4
+2004,Megan Gwynn ,Public ,good ,Black,Pink,Female,Living,229,3.3
+2004,Laura Kinney ,Secret ,good ,Green,Black,Female,Living,265,3.4
+2005,Maria Hill ,No Dual ,good ,Brown,Black,Female,Living,325,3.3
+2006,Akihiro ,Secret ,bad,Blue,Black,Male,Living,189,3.3
+2008,Hope Summers ,Secret ,good ,Green,Red,Female,Living,200,3.3
